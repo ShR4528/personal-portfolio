@@ -3,7 +3,8 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/107538948/193023446-3b62e08a-1db1-4621-9bbe-e63e942e00ef.png)
 
 ### My Portfolio Website with Animation
-     animate,cors,react-bootstrap-icons,react-multi-carousel,react-router-hash-link. Installed via npm packages in the terminal.
+ animate,cors,react-bootstrap,react-multi-carousel,react-router-hash-link.
+ Installed via npm packages in the terminal.
 
 
 
